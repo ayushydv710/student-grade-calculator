@@ -1,0 +1,5 @@
+grade-calculator
+grade-calculator.exe
+*.o
+*.obj
+*.exe
