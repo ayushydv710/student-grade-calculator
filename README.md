@@ -37,3 +37,7 @@ g++ src/main.cpp -o grade-calculator.exe
 - Store student records in a file
 - Add support for multiple students
 - Show subject-wise remarks
+
+## License
+
+This project is licensed under the MIT License.
